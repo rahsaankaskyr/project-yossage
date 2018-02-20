@@ -1,0 +1,50 @@
+/* for buttons */
+.mbr-iconfont.mbr-iconfont-btn,
+.mbr-buttons__btn .mbr-iconfont{ /* depricated, used only for compatibility */
+	padding-right: 0.3em;
+	font-size: 2em;
+	line-height: 0.4em;
+	vertical-align: text-bottom;
+	position: relative;
+	top: -0.1em;
+	text-decoration:none;
+}
+
+/* menu links */
+.mbr-iconfont.mbr-iconfont-btn-parent,
+.mbr-buttons__link .mbr-iconfont{ /* depricated, used only for compatibility */
+	padding-right: 0.3em;
+	font-size: 1.5em;
+	position: relative;
+	top: -0.2em;
+	vertical-align:middle
+}
+
+/* msg-box4 */
+.mbr-iconfont.mbr-iconfont-msg-box4,
+.mbr-iconfont.mbr-iconfont-msg-box5{
+	font-size: 357px;
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+
+/*menu logo */
+.mbr-iconfont.mbr-iconfont-menu,
+.mbr-iconfont.mbr-iconfont-ext__menu{
+	font-size: 74px;
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+/* contacts1 */
+.mbr-iconfont.mbr-iconfont-contacts1{
+	font-size: 119px;
+	text-decoration:none;
+	color:#9C9C9C;
+}
+
+.mbr-iconfont.mbr-iconfont-features1{
+	font-size: 119px;
+	text-decoration:none;
+}
