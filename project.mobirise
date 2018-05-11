@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yossage",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -354,7 +354,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/spa-day-1429380-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/massage4-76453256-2000x1250.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -404,7 +404,12 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-p"
+          "_anchor": "content1-p",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container mbr-section__container--isolated\" data-rv-view=\"50\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 lead mbr-editable-full\" code-editable-id=\"24\"><h1>About Us</h1>\n\n<p>                \nYossage was founded in 2008, with the mission to make the world a better place, one massage at a time.\n                </p>\n                \n<p>    \nYobelin \"Yo\" Fernandez earned a Bachelor's Degree in Mathematics in 2002, and taught high school math, upon graduation. She decided it was not what she wanted to do with her life. Then transitioned into the business world. Working in an administrative capacity at a small boutique modeling agency in New York City for several years.\n</p>\n                \n<p>\n\n                \n                </p>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         }
       ]
     },
