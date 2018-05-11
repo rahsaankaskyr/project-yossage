@@ -13,3 +13,39 @@
 #content1-a h1 {
   font-weight: bold;
 }
+
+
+#menu-f .navbar-toggler {
+  color: #000;
+}
+#menu-f .navbar-brand {
+  font-family: 'Roboto', sans-serif;
+}
+#menu-f .nav-link {
+  font-family: 'Roboto', sans-serif;
+}
+#content1-h h1 {
+  font-weight: bold;
+}
+
+
+#menu-b .navbar-toggler {
+  color: #000;
+}
+#menu-b .navbar-brand {
+  font-family: 'Roboto', sans-serif;
+}
+#menu-b .nav-link {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#menu-j .navbar-toggler {
+  color: #000;
+}
+#menu-j .navbar-brand {
+  font-family: 'Roboto', sans-serif;
+}
+#menu-j .nav-link {
+  font-family: 'Roboto', sans-serif;
+}
