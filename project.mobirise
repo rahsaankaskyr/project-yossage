@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yossage",
-    "currentPage": "menu.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,15 +12,16 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/yin-yang-ios-7-symbol-318-39098-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteUrl": "undefined",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 26,
+    "uniqCompNum": 37,
     "versionPublish": "4.7.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
@@ -150,6 +151,39 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-3"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Yoga Herald Square: 139 West 35th Street, 8th floor, New York, NY 10001",
+              "placeId": "ChIJY76s-atZwokRqXrivZeFdyk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-10",
+          "_customHTML": "<section class=\"mbr-section mbr-section-small mbr-footer\" data-rv-view=\"52\" style=\"background-color: rgb(55, 56, 62); padding-top: 4.5rem; padding-bottom: 4.5rem;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"43\">\n                    \n<strong>Contacts</strong><br>\nEmail: yo@yossage.com<br>\nPhone: 1 (917) 696-5728<br>\n</p>\n            </div>\n           \n            \n             <div class=\"col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"44\"><strong>Appointments</strong><br>\nCall or Email<br>\nCash or Credit Cards accepted\n            </div>\n            \n            \n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\"><iframe frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?key=AIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU&amp;q=place_id:ChIJY76s-atZwokRqXrivZeFdyk\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         }
       ]
     },
@@ -245,20 +279,6 @@
           ],
           "_name": "header4",
           "_anchor": "header4-g"
-        },
-        {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container mbr-section__container--isolated\" data-rv-view=\"49\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 lead mbr-editable-full\" code-editable-id=\"30\">\n                <h1>Spa Menu</h1>\n<p>\n.... \n                </p>\n     \n                \n            </div>\n        </div>\n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "h1 {\n    font-weight: bold\n}",
-          "_customTemplate": true,
-          "_anchor": "content1-h"
         },
         {
           "_params": {
